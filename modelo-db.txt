@@ -1,0 +1,13 @@
+territorio (comunidad)
+   ├── actor_comunitario ─── rol_actor / tipo_actor
+   │        └── relacion_red (actor_origen ↔ actor_destino)
+   │        └── participacion_espacio
+   │        └── actor_iniciativa
+   ├── espacio_gobernanza ─── mecanismo_participacion
+   ├── recurso_territorial
+   ├── iniciativa_innovacion ─── actor_iniciativa
+   ├── actividad_economica
+   ├── practica_sostenible
+   ├── programa_formacion
+   ├── canal_comunicacion
+   └── indicador_impacto
