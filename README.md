@@ -1,7 +1,6 @@
 # godrural
 Plataforma de Gobernanza del Desarrollo Rural en Red
 
-Botón Recientes no funciona
 Para la base de datos orientada a la gestión de la gobernanza del desarrollo rural basada en redes comunitarias, las categorías deben permitir analizar actores, relaciones, recursos, procesos participativos, innovación social e impactos territoriales.
 1. Identificación territorial
 •	Código de comunidad
